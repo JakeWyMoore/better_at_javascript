@@ -59,6 +59,12 @@ var myCity = 'Colorado Springs';
 
 console.log(`My name is ${myName}. My favorite city is ${myCity}`); // Make sure to use the back tik ` not the quotes ' or "
 
+// Typeof Operator
+let newVariable = 'This is a string'
+console.log(typeof newVariable); // this comes out as a string
+
+newVariable = 5;
+console.log(typeof newVariable); // this comes out as a number
 
 
 
